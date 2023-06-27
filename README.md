@@ -2,7 +2,6 @@
 
 The Mother-Loving Website is a lightweight, accessible, and safe for work HTML website inspired by other mother-loving websites.
 
-
 - [The Mother-Loving Website](#the-mother-loving-website)
   - [Demo](#demo)
   - [Description](#description)
@@ -16,14 +15,13 @@ The Mother-Loving Website is a lightweight, accessible, and safe for work HTML w
 
 [![The Mother-loving website](https://github.com/olitreadwell/my-motherloving-website/assets/3107864/149b464e-2377-4f66-a546-21bf4ff49a6a)](https://olitreadwell.github.io/my-motherloving-website)
 
-
 ## Demo
 
 A demo of the website is available at [https://olitreadwell.github.io/my-motherloving-website](https://olitreadwell.github.io/my-motherloving-website).
 
 ## Description
 
-This website is inspired by [Motherf**king Website](https://motherfuckingwebsite.com), [Better Motherf**king Website](http://bettermotherfuckingwebsite.com), and [Even Better Motherf**king Website](https://evenbettermotherfucking.website/). It keeps the simplicity of the others while adding some improvements.
+This website is inspired by [Motherf\*\*king Website](https://motherfuckingwebsite.com), [Better Motherf\*\*king Website](http://bettermotherfuckingwebsite.com), and [Even Better Motherf\*\*king Website](https://evenbettermotherfucking.website/). It keeps the simplicity of the others while adding some improvements.
 
 ## Features
 
@@ -57,7 +55,7 @@ open index.html
 
 ## Contributing
 
-Pull requests are welcome. 
+Pull requests are welcome.
 
 For major changes, please open an issue first to discuss what you would like to change.
 
@@ -71,7 +69,3 @@ Please make sure to test your changes thoroughly before committing.
 ## License
 
 Project source code is available under [![GPL-3.0](https://img.shields.io/github/license/olitreadwell/my-motherloving-website.svg)](https://github.com/olitreadwell/my-motherloving-website/blob/master/LICENSE).
-
-
-
-
