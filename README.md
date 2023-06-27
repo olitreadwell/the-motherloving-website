@@ -2,22 +2,21 @@
 
 The Mother-Loving Website is a lightweight, accessible, and safe for work HTML website inspired by other mother-loving websites.
 
-- [The Mother-Loving Website](#the-mother-loving-website)
-  - [Demo](#demo)
-  - [Description](#description)
-  - [Features](#features)
-    - [Kept from the other Motherforking websites](#kept-from-the-other-motherforking-websites)
-    - [New features](#new-features)
-  - [Setup](#setup)
-  - [Contributing](#contributing)
-  - [Acknowledgements](#acknowledgements)
-  - [License](#license)
+- [Demo](#demo)
+- [Description](#description)
+- [Features](#features)
+  - [Kept from the other Motherforking websites](#kept-from-the-other-motherforking-websites)
+  - [New features](#new-features)
+- [Setup](#setup)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
-[![The Mother-loving website](https://github.com/olitreadwell/my-motherloving-website/assets/3107864/149b464e-2377-4f66-a546-21bf4ff49a6a)](https://olitreadwell.github.io/my-motherloving-website)
+[![The Mother-loving website](https://github.com/olitreadwell/the-motherloving-website/assets/3107864/149b464e-2377-4f66-a546-21bf4ff49a6a)](https://olitreadwell.github.io/the-motherloving-website)
 
 ## Demo
 
-A demo of the website is available at [https://olitreadwell.github.io/my-motherloving-website](https://olitreadwell.github.io/my-motherloving-website).
+A demo of the website is available at [https://olitreadwell.github.io/the-motherloving-website](https://olitreadwell.github.io/the-motherloving-website).
 
 ## Description
 
