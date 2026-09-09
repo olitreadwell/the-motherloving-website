@@ -2,9 +2,13 @@
 
 The Mother-Loving Website is a lightweight, accessible, and safe for work HTML website inspired by other mother-loving websites.
 
+[![GitHub license](https://img.shields.io/github/license/olitreadwell/the-motherloving-website.svg)](https://github.com/olitreadwell/the-motherloving-website/blob/main/LICENSE)
+[![Demo](https://img.shields.io/badge/demo-GitHub%20Pages-2ea44f.svg)](https://olitreadwell.github.io/the-motherloving-website)
+
 - [Demo](#demo)
 - [Description](#description)
 - [Features](#features)
+  - [Built with](#built-with)
   - [Kept from the other Motherforking websites](#kept-from-the-other-motherforking-websites)
   - [New features](#new-features)
 - [Setup](#setup)
@@ -22,6 +26,11 @@ A demo of the website is available at [https://olitreadwell.github.io/the-mother
 
 This website is inspired by [Motherf\*\*king Website](https://motherfuckingwebsite.com), [Better Motherf\*\*king Website](http://bettermotherfuckingwebsite.com), and [Even Better Motherf\*\*king Website](https://evenbettermotherfucking.website/). It keeps the simplicity of the others while adding some improvements.
 
+### Built with
+
+- Plain HTML5 and CSS3
+- No frameworks, no build step, no dependencies
+
 ## Features
 
 ### Kept from the other Motherforking websites
@@ -36,6 +45,11 @@ This website is inspired by [Motherf\*\*king Website](https://motherfuckingwebsi
 - Plain language
 - Safe For Work
 - Gets 100 out of 100 for every Google Chrome Lighthouse report section (aside from the Progressive Web App)
+- Semantic HTML5 (one `h1`, wrapped sections, valid phrasing content)
+- Open Graph and Twitter Card metadata in the head
+- Canonical URL, `theme-color`, and inline SVG favicon
+- Visible keyboard focus styles
+- Print stylesheet
 
 ## Setup
 
@@ -43,10 +57,10 @@ To run this project, download the source code and open `index.html` in your pref
 
 ```bash
 # clone the project down from GitHub
-git clone https://github.com/olitreadwell/my-motherloving-website.git
+git clone https://github.com/olitreadwell/the-motherloving-website.git
 
 # move into the newly cloned directory
-cd my-motherloving-website
+cd the-motherloving-website
 
 # open index.html in your default browser
 open index.html
@@ -67,4 +81,4 @@ Please make sure to test your changes thoroughly before committing.
 
 ## License
 
-Project source code is available under [![GPL-3.0](https://img.shields.io/github/license/olitreadwell/my-motherloving-website.svg)](https://github.com/olitreadwell/my-motherloving-website/blob/master/LICENSE).
+Project source code is available under [![GPL-3.0](https://img.shields.io/github/license/olitreadwell/the-motherloving-website.svg)](https://github.com/olitreadwell/the-motherloving-website/blob/main/LICENSE).

@@ -2,22 +2,87 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <meta
-      name="viewport"
-      content="width=device-width, height=device-height, initial-scale=1.0"
-    >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Mother-Loving Website</title>
     <meta
       name="description"
-      content="The Mother-Loving websites."
-    />
+      content="A fast, lightweight, safe-for-work homage to those other mother-loving websites."
+    >
+    <meta name="author" content="Oli Treadwell">
+    <meta name="theme-color" content="#ffffff">
+    <link
+      rel="canonical"
+      href="https://olitreadwell.github.io/the-motherloving-website/"
+    >
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="The Mother-Loving Website">
+    <meta
+      property="og:description"
+      content="A fast, lightweight, safe-for-work homage to those other mother-loving websites."
+    >
+    <meta
+      property="og:url"
+      content="https://olitreadwell.github.io/the-motherloving-website/"
+    >
+    <meta
+      property="og:image"
+      content="https://github.com/olitreadwell/the-motherloving-website/assets/3107864/149b464e-2377-4f66-a546-21bf4ff49a6a"
+    >
+    <meta property="og:locale" content="en_US">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="The Mother-Loving Website">
+    <meta
+      name="twitter:description"
+      content="A fast, lightweight, safe-for-work homage to those other mother-loving websites."
+    >
+
+    <!-- Inline SVG favicon: no extra request -->
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ctext x='8' y='11' font-size='9' text-anchor='middle' fill='%23fff' font-family='sans-serif'%3EM%3C/text%3E%3C/svg%3E"
+    >
+
     <style>
+      /* Minimal modern reset */
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
       body {
-        margin: 5% auto;
-        font-family: sans-serif;
-        font-size: 16px;
+        margin: 2rem auto;
+        padding: 0 1rem;
+        max-width: 45rem;
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+        font-size: 1rem;
         line-height: 1.6;
-        max-width: 80%;
+      }
+
+      h1,
+      h2 {
+        line-height: 1.2;
+      }
+
+      img {
+        max-width: 100%;
+        height: auto;
+      }
+
+      a:focus-visible {
+        outline: 3px solid #0074d9;
+        outline-offset: 2px;
+      }
+
+      @media print {
+        body {
+          margin: 1rem;
+          max-width: none;
+        }
       }
     </style>
   </head>
@@ -31,18 +96,20 @@
     </header>
     <main>
       <section>
-        <h2><strong>You've seen those other mother-loving websites.</strong></h2>
+        <h2>You've seen those other mother-loving websites.</h2>
         <p>
           We all know that
           <a
             href="https://motherfuckingwebsite.com"
             target="_blank"
+            rel="noopener"
           >
             Motherforking Website</a
           >, it's a gross pile of shirt. And we also know that
           <a
             href="http://bettermotherfuckingwebsite.com"
             target="_blank"
+            rel="noopener"
           >
             Better Motherforking Website </a
           >improved the Gas-Blastered Crap into an (almost) easy-to-read
@@ -53,20 +120,24 @@
         <h2>
           But I made it even better! Like the other mother-forking websites,
         </h2>
-        <strong>The Mother-Loving Website</strong>, has all of the
-        benefits of the original, 'perfect blast' website and has some
-        improvements from the
-        <a
-          href="https://bettermotherfuckingwebsite.com"
-          target="_blank"
-          >Better Motherforking Website</a
-        >
-        and even the
-        <a
-          href="https://evenbettermotherfucking.website/"
-          target="_blank"
-          >Even Better Motherforking Website</a
-        >:
+        <p>
+          <strong>The Mother-Loving Website</strong>, has all of the
+          benefits of the original, 'perfect blast' website and has some
+          improvements from the
+          <a
+            href="https://bettermotherfuckingwebsite.com"
+            target="_blank"
+            rel="noopener"
+            >Better Motherforking Website</a
+          >
+          and even the
+          <a
+            href="https://evenbettermotherfucking.website/"
+            target="_blank"
+            rel="noopener"
+            >Even Better Motherforking Website</a
+          >:
+        </p>
         <ul>
           <li>It's still lightweight and loads fast</li>
           <li>Still fits on all of your shoddy screens</li>
@@ -100,6 +171,7 @@
         <a
           href="http://bettermotherfuckingwebsite.com"
           target="_blank"
+          rel="noopener"
           >Better Motherforking Website</a
         >
       </blockquote>
@@ -110,39 +182,45 @@
         <a
           href="https://evenbettermotherfucking.website"
           target="_blank"
+          rel="noopener"
           >Even Better Motherforking Website</a
         >
-        &
+        &amp;
         <a
           href="http://bettermotherfuckingwebsite.com"
           target="_blank"
+          rel="noopener"
           >Better Motherforking Website</a
         >, I love what the creator of
         <a
           href="https://motherfuckingwebsite.com"
           target="_blank"
+          rel="noopener"
           >Motherforking Website</a
         >
         did. It's all about the message! But let's face it: would you rather
         have crab, or some beautifully-aligned shirt?
       </p>
-      <hr />
+      <hr>
       <h2 id="inspired-by">Inspired by</h2>
       <p>
         Inspired by the geniuses behind
         <a
           href="https://evenbettermotherfucking.website"
           target="_blank"
+          rel="noopener"
           >Even Better Motherforking Website</a
         >,
         <a
           href="http://bettermotherfuckingwebsite.com"
           target="_blank"
+          rel="noopener"
           >Better Motherforking Website</a
         >, and
         <a
           href="https://motherfuckingwebsite.com"
           target="_blank"
+          rel="noopener"
           >Motherforking Website</a
         >.
       </p>
@@ -153,12 +231,14 @@
         <a
           href="https://habitualgenesis.com"
           target="_blank"
+          rel="noopener"
           >Habitual Genesis</a
         >
         Project. Open source code on
         <a
-          href="https://github.com/olitreadwell/my-motherloving-website"
+          href="https://github.com/olitreadwell/the-motherloving-website"
           target="_blank"
+          rel="noopener"
           >GitHub</a
         >.
       </p>
@@ -166,4 +246,4 @@
   </body>
 </html>
 <!-- Copyright (C) 2023  Oli Treadwell -->
-<!-- License: https://github.com/olitreadwell/my-motherloving-website/blob/master/LICENSE -->
+<!-- License: https://github.com/olitreadwell/the-motherloving-website/blob/main/LICENSE -->
